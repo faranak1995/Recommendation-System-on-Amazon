@@ -34,3 +34,11 @@ This project is a Python-based web scraping and recommendation system that extra
    ```bash
    git clone https://github.com/your-username/amazon-recommendation-system.git
    cd amazon-recommendation-system
+
+2. Install dependencies:
+```pip install -r requirements.txt
+
+3. Download and set up the WebDriver (e.g., ChromeDriver):
+
+Ensure the driver version matches your browser version.
+Add the driver to your system PATH.
